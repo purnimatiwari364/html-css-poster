@@ -1,0 +1,25 @@
+.poster{
+     background-color: black;
+    padding: 20px;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: imprima,sans-serif;
+}
+
+img{
+    border: 10px solid white;
+    margin-left: 35%;
+    height: 400px;
+    width: 400px;
+}
+p{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
